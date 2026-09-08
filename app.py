@@ -3,9 +3,9 @@ import json
 import pandas as pd
 import streamlit as st
 
-from src.asset_investment_simulator.demo import demo_assets, demo_systems
-from src.asset_investment_simulator.engine import simulate, validate_assets
-from src.asset_investment_simulator.scenarios import SCENARIOS
+from asset_investment_simulator.demo import demo_assets, demo_systems
+from asset_investment_simulator.engine import simulate, validate_assets
+from asset_investment_simulator.scenarios import SCENARIOS
 
 st.set_page_config(page_title="Asset Investment Simulator", layout="wide")
 st.title("Asset Investment Simulator")
