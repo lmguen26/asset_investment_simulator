@@ -1,0 +1,2 @@
+caisse_id,caisse_name,site_id,site_name,asset_type,asset_status,address_line_1,city,region,province_code,postal_code,country_code,latitude,longitude,year_built,gross_floor_area,area_unit,tenure_type,lease_expiry_date,source_system,source_record_id,source_as_of_date
+C001,Example Caisse,C001-S01,Example Site,branch,active,100 Example St,Quebec City,Capitale-Nationale,QC,G1A 1A1,CA,46.8139,-71.2080,1990,7000,ft2,owned,,Asset Register,SRC-001,2026-09-07
