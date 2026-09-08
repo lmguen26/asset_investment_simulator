@@ -1,5 +1,5 @@
 import pytest
-from src.asset_investment_simulator.formulas import (
+from asset_investment_simulator.formulas import (
     technical_backlog, functional_backlog, capacity_backlog,
     condition_indices, current_replacement_value, present_value, annual_equivalent,
 )
