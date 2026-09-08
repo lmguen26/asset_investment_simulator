@@ -1,8 +1,8 @@
 import math
 
-from src.asset_investment_simulator.demo import demo_assets, demo_systems
-from src.asset_investment_simulator.engine import build_renewal_schedule, simulate
-from src.asset_investment_simulator.scenarios import baseline, maintain_condition, target_condition
+from asset_investment_simulator.demo import demo_assets, demo_systems
+from asset_investment_simulator.engine import build_renewal_schedule, simulate
+from asset_investment_simulator.scenarios import baseline, maintain_condition, target_condition
 
 
 def test_simulation_covers_full_horizon_and_rollups():
